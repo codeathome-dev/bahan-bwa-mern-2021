@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "role": "admin",
+  "status": "Y",
+  "email": "admbwa@gmail.com",
+  "password": "$2a$10$2ATMEfhS1nt5c3VXgzlaqe3epJFTuY7.oKpORdOgqtxFNYLcndCFW",
+  "phoneNumber": "08154023799",
+  "username": "admbwa",
+  "name": "admin bwa",
+  "createdAt": {
+    "$date": "2021-05-25T12:41:43.122Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-25T12:41:43.122Z"
+  },
+  "__v": 0
+}]

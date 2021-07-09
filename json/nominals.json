@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "603152e0a4dd027eefaccf61"
+  },
+  "coinQuantity": 50,
+  "coinName": "GOLD",
+  "price": 1250000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefaccf62"
+  },
+  "coinQuantity": 100,
+  "coinName": "GOLD",
+  "price": 2250000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefaccf63"
+  },
+  "coinQuantity": 125,
+  "coinName": "GOLD",
+  "price": 3250000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefaccf64"
+  },
+  "coinQuantity": 500,
+  "coinName": "GOLD",
+  "price": 5000000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefaccf65"
+  },
+  "coinQuantity": 225,
+  "coinName": "GOLD",
+  "price": 4250000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefaccf66"
+  },
+  "coinQuantity": 225,
+  "coinName": "GOLD",
+  "price": 4250000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebe1c3c9c29aa8d6ad445"
+  },
+  "coinQuantity": 50,
+  "price": 75000,
+  "coinName": "Jewel",
+  "createdAt": {
+    "$date": "2021-06-08T00:47:24.737Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:47:24.737Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebe333c9c29aa8d6ad446"
+  },
+  "coinQuantity": 100,
+  "price": 125000,
+  "coinName": "Jewel",
+  "createdAt": {
+    "$date": "2021-06-08T00:47:47.143Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:47:47.143Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebf303c9c29aa8d6ad447"
+  },
+  "coinQuantity": 150,
+  "price": 150000,
+  "coinName": "Jewel",
+  "createdAt": {
+    "$date": "2021-06-08T00:52:00.699Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:52:00.699Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebf503c9c29aa8d6ad448"
+  },
+  "coinQuantity": 225,
+  "price": 175000,
+  "coinName": "Jewel",
+  "createdAt": {
+    "$date": "2021-06-08T00:52:32.921Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:55:14.822Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebf5c3c9c29aa8d6ad449"
+  },
+  "coinQuantity": 500,
+  "price": 325000,
+  "coinName": "Jewel",
+  "createdAt": {
+    "$date": "2021-06-08T00:52:44.241Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:52:44.241Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebf743c9c29aa8d6ad44a"
+  },
+  "coinQuantity": 50,
+  "price": 125000,
+  "coinName": "Diamond",
+  "createdAt": {
+    "$date": "2021-06-08T00:53:08.196Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:53:27.516Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebf7d3c9c29aa8d6ad44b"
+  },
+  "coinQuantity": 100,
+  "price": 225000,
+  "coinName": "Diamond",
+  "createdAt": {
+    "$date": "2021-06-08T00:53:17.816Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:53:37.914Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebf9d3c9c29aa8d6ad44c"
+  },
+  "coinQuantity": 150,
+  "price": 300000,
+  "coinName": "Diamond",
+  "createdAt": {
+    "$date": "2021-06-08T00:53:49.231Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:53:58.711Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebfc73c9c29aa8d6ad44d"
+  },
+  "coinQuantity": 300,
+  "price": 400000,
+  "coinName": "Diamond",
+  "createdAt": {
+    "$date": "2021-06-08T00:54:31.870Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:54:40.488Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bebfe23c9c29aa8d6ad44e"
+  },
+  "coinQuantity": 500,
+  "price": 500000,
+  "coinName": "Diamond",
+  "createdAt": {
+    "$date": "2021-06-08T00:54:58.374Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T00:55:24.901Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "60bedda711b1afb14e9c608c"
+  },
+  "tax": 125000,
+  "value": 1375000,
+  "status": "pending",
+  "historyVoucherTopup": {
+    "gameName": "Mobile Legends",
+    "category": "Desktop",
+    "thumbnail": "3.png",
+    "coinName": "GOLD",
+    "coinQuantity": "50",
+    "price": 1250000
+  },
+  "historyPayment": {
+    "type": "Tranfer",
+    "bankName": "BCA",
+    "name": "ADMIN BWA 1",
+    "noRekening": "123456789"
+  },
+  "user": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "historyUser": {
+    "name": "admin bwa",
+    "phoneNumber": "08154023799"
+  },
+  "category": {
+    "$oid": "603152e0a4dd027eefacce62"
+  },
+  "name": "elfin sanjaya",
+  "accountUser": "821739",
+  "voucherTopup": {
+    "$oid": "603152e0a4dd027eefadde62"
+  },
+  "player": {
+    "$oid": "60bcee695603e6693630c5de"
+  },
+  "createdAt": {
+    "$date": "2021-06-08T03:01:59.173Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T03:01:59.173Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bff4b56824c8120f4e113d"
+  },
+  "tax": 125000,
+  "value": 1375000,
+  "status": "pending",
+  "historyVoucherTopup": {
+    "gameName": "Valorant",
+    "category": "Desktop",
+    "thumbnail": "5.png",
+    "coinName": "GOLD",
+    "coinQuantity": "50",
+    "price": 1250000
+  },
+  "historyPayment": {
+    "type": "Tranfer",
+    "bankName": "BCA",
+    "name": "ADMIN BWA 1",
+    "noRekening": "123456789"
+  },
+  "user": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "historyUser": {
+    "name": "admin bwa",
+    "phoneNumber": "08154023799"
+  },
+  "category": {
+    "$oid": "603152e0a4dd027eefacce62"
+  },
+  "name": "elfin sanjaya",
+  "accountUser": "821739",
+  "voucherTopup": {
+    "$oid": "603152e0a4dd027eefadde64"
+  },
+  "player": {
+    "$oid": "60bcee695603e6693630c5de"
+  },
+  "createdAt": {
+    "$date": "2021-06-08T22:52:37.579Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T22:52:37.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bffdab960e7817041522de"
+  },
+  "tax": 125000,
+  "value": 1375000,
+  "status": "pending",
+  "historyVoucherTopup": {
+    "gameName": "Super Mechs",
+    "category": "Mobile",
+    "thumbnail": "1.png",
+    "coinName": "GOLD",
+    "coinQuantity": "50",
+    "price": 1250000
+  },
+  "historyPayment": {
+    "type": "Tranfer",
+    "bankName": "BCA",
+    "name": "ADMIN BWA 1",
+    "noRekening": "123456789"
+  },
+  "user": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "historyUser": {
+    "name": "admin bwa",
+    "phoneNumber": "08154023799"
+  },
+  "category": {
+    "$oid": "603152e0a4dd027eefacce60"
+  },
+  "name": "elfin sanjaya",
+  "accountUser": "821739",
+  "voucherTopup": {
+    "$oid": "603152e0a4dd027eefadde60"
+  },
+  "player": {
+    "$oid": "60bcee695603e6693630c5de"
+  },
+  "createdAt": {
+    "$date": "2021-06-08T23:30:51.452Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T23:30:51.452Z"
+  },
+  "__v": 0
+}]

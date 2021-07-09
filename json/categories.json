@@ -1,0 +1,23 @@
+[
+  {
+    "_id": {
+      "$oid": "603152e0a4dd027eefacce60"
+    },
+    "name": "Mobile",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "603152e0a4dd027eefacce61"
+    },
+    "name": "PC",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "603152e0a4dd027eefacce62"
+    },
+    "name": "Desktop",
+    "__v": 0
+  }
+]

@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "603152e0a4dd027eefadde60"
+  },
+  "name": "Super Mechs",
+  "category": {
+    "$oid": "603152e0a4dd027eefacce60"
+  },
+  "isFeatured": true,
+  "status": "Y",
+  "thumbnail": "1.png",
+  "user": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "nominals": [
+    {
+      "$oid": "603152e0a4dd027eefaccf61"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf62"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf63"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf64"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf65"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf66"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefadde61"
+  },
+  "name": "Call of Duty: Modern",
+  "category": {
+    "$oid": "603152e0a4dd027eefacce61"
+  },
+  "isFeatured": true,
+  "status": "Y",
+  "thumbnail": "2.png",
+  "user": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "nominals": [
+    {
+      "$oid": "60bebe1c3c9c29aa8d6ad445"
+    },
+    {
+      "$oid": "60bebe333c9c29aa8d6ad446"
+    },
+    {
+      "$oid": "60bebf303c9c29aa8d6ad447"
+    },
+    {
+      "$oid": "60bebf503c9c29aa8d6ad448"
+    },
+    {
+      "$oid": "60bebf5c3c9c29aa8d6ad449"
+    }
+  ],
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-06-08T22:30:56.043Z"
+  }
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefadde62"
+  },
+  "name": "Mobile Legends",
+  "category": {
+    "$oid": "603152e0a4dd027eefacce62"
+  },
+  "isFeatured": true,
+  "status": "Y",
+  "thumbnail": "3.png",
+  "user": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "nominals": [
+    {
+      "$oid": "60bebf743c9c29aa8d6ad44a"
+    },
+    {
+      "$oid": "60bebf7d3c9c29aa8d6ad44b"
+    },
+    {
+      "$oid": "60bebf9d3c9c29aa8d6ad44c"
+    },
+    {
+      "$oid": "60bebfc73c9c29aa8d6ad44d"
+    },
+    {
+      "$oid": "60bebfe23c9c29aa8d6ad44e"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefadde63"
+  },
+  "name": "Clash of Clans",
+  "category": {
+    "$oid": "603152e0a4dd027eefacce62"
+  },
+  "isFeatured": true,
+  "status": "Y",
+  "thumbnail": "4.png",
+  "user": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "nominals": [
+    {
+      "$oid": "603152e0a4dd027eefaccf61"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf62"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf63"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf64"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf65"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf66"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603152e0a4dd027eefadde64"
+  },
+  "name": "Valorant",
+  "category": {
+    "$oid": "603152e0a4dd027eefacce62"
+  },
+  "isFeatured": true,
+  "status": "Y",
+  "thumbnail": "5.png",
+  "user": {
+    "$oid": "60acf086e2e33c145dff9e65"
+  },
+  "nominals": [
+    {
+      "$oid": "603152e0a4dd027eefaccf61"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf62"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf63"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf64"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf65"
+    },
+    {
+      "$oid": "603152e0a4dd027eefaccf66"
+    }
+  ],
+  "__v": 0
+}]

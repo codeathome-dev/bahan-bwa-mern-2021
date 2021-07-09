@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {
+      "$oid": "60ae2431196ccd27e6587ab1"
+    },
+    "name": "ADMIN BWA 1",
+    "noRekening": "123456789",
+    "bankName": "BCA",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ae2431196ccd27e6587ab2"
+    },
+    "name": "ADMIN BWA 2",
+    "noRekening": "18273891273",
+    "bankName": "Mandiri",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ae2431196ccd27e6587ab3"
+    },
+    "name": "ADMIN BWA 3",
+    "noRekening": "2839172398",
+    "bankName": "Credit card",
+    "__v": 0
+  }
+]

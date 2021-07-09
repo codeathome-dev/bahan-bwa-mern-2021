@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "60ae253c729f6e288f94cf44"
+  },
+  "banks": [
+    {
+      "$oid": "60ae2431196ccd27e6587ab1"
+    },
+    {
+      "$oid": "60ae2431196ccd27e6587ab2"
+    }
+  ],
+  "type": "Tranfer",
+  "status": "Y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ae253c729f6e288f94cf45"
+  },
+  "banks": [
+    {
+      "$oid": "60ae2431196ccd27e6587ab3"
+    }
+  ],
+  "type": "VISA",
+  "status": "Y",
+  "__v": 0
+}]
